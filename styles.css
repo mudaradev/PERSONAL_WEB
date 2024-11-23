@@ -1,0 +1,11 @@
+.im_grid {
+    display: grid;
+    grid-template-columns: repeat(7,1fr);
+    gap: 5px;
+    width: 2px;
+    height: 1px;
+}
+.im_grid img{
+    width: 300px;
+
+}

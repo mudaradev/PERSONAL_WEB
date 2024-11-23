@@ -1,3 +1,8 @@
 body{
-    background-image: url(The-Secret-to-Attracting-Loyal-Adventure-Travel-Cl.webp);
+ 
+   background-image : url(new.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+
 }
